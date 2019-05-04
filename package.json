@@ -8,6 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "json-server db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
